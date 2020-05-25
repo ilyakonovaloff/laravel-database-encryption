@@ -3,7 +3,7 @@
  * src/config/database-encryption.php.
  *
  * @author      Austin Heap <me@austinheap.com>
- * @version     v0.3.0
+ * @version     v0.4.0
  */
 
 return [
